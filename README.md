@@ -1,4 +1,4 @@
-Enhancing Robustness Against Adversarial Examples in Network Intrusion Detection Systems
+# Enhancing Robustness Against Adversarial Examples in Network Intrusion Detection Systems
 
 This repository contains the code to train and test a network intrusion detection system (NIDS) with the Reconstruction from Partial Observation (RePO) technique as described in our paper. The NIDS can be trained on low-level features extracted from packet headers and also high-level features extracted from a whole flow.
 
