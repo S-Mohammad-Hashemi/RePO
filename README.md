@@ -30,13 +30,10 @@ Our evaluation conducted on a dataset with a variety of network attacks shows de
 ## Citation
 
 ```
-@misc{hashemi2020enhancing,
+@inproceedings{hashemi2020enhancing,
     title={Enhancing Robustness Against Adversarial Examples in Network Intrusion Detection Systems},
     author={Mohammad J. Hashemi and Eric Keller},
+    booktitle={2020 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)}, 
     year={2020},
-    eprint={2008.03677},
-    archivePrefix={arXiv},
-    url = {https://arxiv.org/abs/2008.03677}
-    primaryClass={cs.CR},
 }
 ```
